@@ -1,3 +1,5 @@
+
+
 function myFunction() {
   var x = document.getElementById("mySelect").selectedIndex;
   var y = document.getElementById("mySelect").options;

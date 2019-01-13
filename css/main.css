@@ -96,7 +96,11 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-main{
+html{
+    background: indianred;
+}
+
+   main{
     display: flex;
     justify-content: center;
     align-items: center;
